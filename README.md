@@ -82,17 +82,14 @@
 <a href="[https://www.linkedin.com/in/yesmina-meddeb-42988b197/" target="_blank">
   <img align="center" alt="Yassmin's LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://twitter.com/TitanWithKagune" target="_blank">
-  <img align="center" alt="Yassmin's Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
 <a href="https://www.instagram.com/meddeb.yesmina/?hl=fr" target="_blank">
   <img align="center" alt="Yassmin's Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
 </a> &nbsp;&nbsp;
-<a href="mailto:rahuldhanola31@gmail.com" >
-  <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+<a href="mailto:yassmin.mouaddeb@esprit.tn" >
+  <img align="center" alt="Yassmin's Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100013628134596">
-    <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+<a href="https://www.facebook.com/mouadeb.yasmina.5">
+    <img align="center" alt="Yassmin's Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
 
