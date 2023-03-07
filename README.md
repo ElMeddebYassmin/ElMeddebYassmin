@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>&nbsp; <b align="center">Languages and Tools</b>&nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>&nbsp; <b align="center">Languages And Tools</b>&nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>
 </p>
 
 <p style="display: inline-block;" align="center">
@@ -72,6 +72,37 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
 </p>
+
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>&nbsp; <b align="center">Conatct Me </b>&nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>
+</p>
+
+
+<p align="center">
+<a href="[https://www.linkedin.com/in/yesmina-meddeb-42988b197/" target="_blank">
+  <img align="center" alt="Yassmin's LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://twitter.com/TitanWithKagune" target="_blank">
+  <img align="center" alt="Yassmin's Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.instagram.com/meddeb.yesmina/?hl=fr" target="_blank">
+  <img align="center" alt="Yassmin's Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
+</a> &nbsp;&nbsp;
+<a href="mailto:rahuldhanola31@gmail.com" >
+  <img align="center" alt="Rahul Dhanola | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100013628134596">
+    <img align="center" alt="Rahul Dhanola | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
+</a> &nbsp;&nbsp;
+<p>
+
+
+
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>&nbsp; <b align="center">Github Stats</b>&nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>
+</p>
+
+
 
 <!--
 **ElMeddebYassmin/ElMeddebYassmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
