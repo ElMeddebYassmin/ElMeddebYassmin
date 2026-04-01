@@ -1,117 +1,92 @@
-<h1 align="center">🌸🌸🌸 El Meddeb Yassmin 🌸🌸🌸</h1>
-<p align="center">
-  <img src="https://octodex.github.com/images/foundingfather_v2.png" width="150px" height="150px"/>
-</p>
-<p>
-<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
-</p>
+<h1 align="center">Yassmin El Meddeb</h1>
+<h3 align="center">Full Stack Engineer | Spring Boot • Angular • Microservices</h3>
 
 <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>&nbsp; <b align="center">Languages And Tools</b>&nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>
+  <a href="mailto:mouaddeb.yassmina@gmail.com">Email</a> • 
+  <a href="https://www.linkedin.com/in/yassmin-el-meddeb-42988b197/">LinkedIn</a> • 
+  <a href="https://github.com/ElMeddebYassmin">GitHub</a>
 </p>
 
-<p style="display: inline-block;" align="center">
-  <kbd>
-    <kbd>Front-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Back-end</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Library/FrameWorks</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  </kbd>
-  <br>
-  <kbd>
-    <kbd>Apps</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Terminal Scripts</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  </kbd>
-  <kbd>
-    <kbd>Tools</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
-  </kbd>
-  <kbd>
-    <kbd>OS</kbd>
-    <br>
-    <br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  </kbd>
-</p>
+---
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>&nbsp; <b align="center">Conatct Me </b>&nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>
-</p>
+## About Me
 
+Full Stack Engineer with strong expertise in building scalable web applications using **Spring Boot and Angular**.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/yesmina-meddeb-42988b197/" target="_blank">
-  <img align="center" alt="Yassmin's LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/meddeb.yesmina/?hl=fr" target="_blank">
-  <img align="center" alt="Yassmin's Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:yassmin.mouaddeb@esprit.tn" >
-  <img align="center" alt="Yassmin's Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/mouadeb.yasmina.5">
-    <img align="center" alt="Yassmin's Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
-</a> &nbsp;&nbsp;
-<p>
+I have worked on real-world systems including:
+- Academic platforms for 500+ users  
+- Microservices architectures with Docker & Keycloak  
+- AI-powered and AgriTech platforms  
 
+I focus on writing clean, maintainable code and designing robust backend architectures.
 
+---
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>&nbsp; <b align="center">Github Stats</b>&nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>
-</p>
+## Tech Stack
 
+### Frontend
+- Angular • React • Next.js • Ionic
 
+### Backend
+- Spring Boot • Node.js • Express.js • Python (Flask / FastAPI)
 
-<!--
-**ElMeddebYassmin/ElMeddebYassmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Architecture & DevOps
+- Microservices • REST APIs • Docker • CI/CD • GitLab • GitFlow
 
-Here are some ideas to get you started:
+### Databases
+- PostgreSQL • MongoDB • MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Projects
+
+### Academic Project Management Platform
+- Full stack platform used by 500+ students
+- Automated group generation + ML-based recommendation system
+- Stack: Node.js, Express, React, MongoDB, Python (ML)
+
+---
+
+### Microservices Architecture (Spring Boot / Angular)
+- 5 microservices system with:
+  - Keycloak authentication
+  - API Gateway
+  - Eureka service discovery
+- Fully containerized with Docker
+
+---
+
+### AgroInsight TN (Ongoing)
+- Smart AgriTech platform with AI-powered recommendations
+- Angular dashboard with geographic visualization
+- Backend: FastAPI + PostgreSQL + CI/CD
+
+---
+
+## Experience
+
+**Full Stack Developer (Freelance)**  
+- Built and deployed web & mobile applications  
+- Worked across Angular, React, Spring Boot, Node.js  
+
+**Full Stack Developer – Allence Tunisie**  
+- Angular + AWS Chalice backend  
+- Serverless architecture with AWS Lambda  
+- GitLab workflow & code reviews  
+
+---
+
+## Strengths
+
+- Strong backend architecture (Spring Boot, APIs)
+- Clean code & scalable systems
+- Fast learner & adaptable across technologies
+- Team collaboration (SCRUM, GitFlow)
+
+---
+
+## Contact
+
+- Email: mouaddeb.yassmina@gmail.com  
+- Phone: +216 29 452 990  
+- Location: Tunisia  
