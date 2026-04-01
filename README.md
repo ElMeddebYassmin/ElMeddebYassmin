@@ -1,10 +1,18 @@
-if i want to update this an ameliorate it and add things based on my CV
-<h1 align="center">🌸🌸🌸 El Meddeb Yassmin 🌸🌸🌸</h1>
+<h1 align="center">🌸🌸🌸 Yassmina Mouaddeb 🌸🌸🌸</h1>
 <p align="center">
   <img src="https://octodex.github.com/images/foundingfather_v2.png" width="150px" height="150px"/>
 </p>
+
+<p align="center">
+  <b>Full Stack Engineer | Spring Boot • Angular • Microservices</b>
+</p>
+
 <p>
 <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png" />
+</p>
+
+<p align="center">
+  <i>Building scalable web applications with clean architecture & modern technologies</i>
 </p>
 
 <p align="center">
