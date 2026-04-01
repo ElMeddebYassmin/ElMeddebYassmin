@@ -83,18 +83,7 @@ Passionate about clean code, system design, and continuously improving technical
 ---
 
 <p align="center">
- <b>Contact Me</b>
-</p>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/yassmin-el-meddeb-42988b197/" target="_blank">
-  <img align="center" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-
-<a href="mailto:mouaddeb.yassmina@gmail.com">
-  <img align="center" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a>
-</p>
+<p align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>&nbsp; <b align="center">Conatct Me </b>&nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/> </p> <p align="center"> <a href="https://www.linkedin.com/in/yesmina-meddeb-42988b197/" target="_blank"> <img align="center" alt="Yassmin's LinkedIn" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" /> </a> &nbsp;&nbsp; <a href="https://www.instagram.com/meddeb.yesmina/?hl=fr" target="_blank"> <img align="center" alt="Yassmin's Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" /> </a> &nbsp;&nbsp; <a href="mailto:yassmin.mouaddeb@esprit.tn" > <img align="center" alt="Yassmin's Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" /> </a> &nbsp;&nbsp; <a href="https://www.facebook.com/mouadeb.yasmina.5"> <img align="center" alt="Yassmin's Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" /> </a> &nbsp;&nbsp; <p> <p align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/>&nbsp; <b align="center">Github Stats</b>&nbsp; <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="25" alt="Git"/> </p>
 
 ---
 
