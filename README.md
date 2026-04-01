@@ -1,92 +1,102 @@
-<h1 align="center">Yassmin El Meddeb</h1>
-<h3 align="center">Full Stack Engineer | Spring Boot • Angular • Microservices</h3>
+<h1 align="center">🌸 El Meddeb Yassmin 🌸</h1>
+<p align="center">
+  <img src="https://octodex.github.com/images/foundingfather_v2.png" width="150px"/>
+</p>
 
 <p align="center">
-  <a href="mailto:mouaddeb.yassmina@gmail.com">Email</a> • 
-  <a href="https://www.linkedin.com/in/yassmin-el-meddeb-42988b197/">LinkedIn</a> • 
-  <a href="https://github.com/ElMeddebYassmin">GitHub</a>
+ <b>Full Stack Engineer | Spring Boot • Angular • Microservices</b>
+</p>
+
+<p align="center">
+ <i>Building scalable web applications with clean architecture & modern technologies</i>
 </p>
 
 ---
 
-## About Me
+<p align="center">
+ <b>Languages And Tools</b>
+</p>
 
-Full Stack Engineer with strong expertise in building scalable web applications using **Spring Boot and Angular**.
+<p align="center">
 
-I have worked on real-world systems including:
-- Academic platforms for 500+ users  
-- Microservices architectures with Docker & Keycloak  
-- AI-powered and AgriTech platforms  
+  <kbd>
+    <kbd>Front-end</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+  </kbd>
 
-I focus on writing clean, maintainable code and designing robust backend architectures.
+  <kbd>
+    <kbd>Back-end</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+  </kbd>
 
----
+  <kbd>
+    <kbd>Architecture & DevOps</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg"/>
+  </kbd>
 
-## Tech Stack
+  <kbd>
+    <kbd>Databases</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+  </kbd>
 
-### Frontend
-- Angular • React • Next.js • Ionic
+  <br>
 
-### Backend
-- Spring Boot • Node.js • Express.js • Python (Flask / FastAPI)
+  <kbd>
+    <kbd>Tools</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+  </kbd>
 
-### Architecture & DevOps
-- Microservices • REST APIs • Docker • CI/CD • GitLab • GitFlow
-
-### Databases
-- PostgreSQL • MongoDB • MySQL
-
----
-
-## Featured Projects
-
-### Academic Project Management Platform
-- Full stack platform used by 500+ students
-- Automated group generation + ML-based recommendation system
-- Stack: Node.js, Express, React, MongoDB, Python (ML)
-
----
-
-### Microservices Architecture (Spring Boot / Angular)
-- 5 microservices system with:
-  - Keycloak authentication
-  - API Gateway
-  - Eureka service discovery
-- Fully containerized with Docker
-
----
-
-### AgroInsight TN (Ongoing)
-- Smart AgriTech platform with AI-powered recommendations
-- Angular dashboard with geographic visualization
-- Backend: FastAPI + PostgreSQL + CI/CD
-
----
-
-## Experience
-
-**Full Stack Developer (Freelance)**  
-- Built and deployed web & mobile applications  
-- Worked across Angular, React, Spring Boot, Node.js  
-
-**Full Stack Developer – Allence Tunisie**  
-- Angular + AWS Chalice backend  
-- Serverless architecture with AWS Lambda  
-- GitLab workflow & code reviews  
+</p>
 
 ---
 
-## Strengths
+<p align="center">
+ <b>About Me</b>
+</p>
 
-- Strong backend architecture (Spring Boot, APIs)
-- Clean code & scalable systems
-- Fast learner & adaptable across technologies
-- Team collaboration (SCRUM, GitFlow)
+<p align="center">
+Full Stack Engineer with a strong focus on <b>Spring Boot and Angular</b>,  
+experienced in building scalable applications and working with modern architectures such as <b>microservices</b> and <b>REST APIs</b>.
+
+<br><br>
+
+Passionate about clean code, system design, and continuously improving technical skills in backend and cloud environments.
+</p>
 
 ---
 
-## Contact
+<p align="center">
+ <b>Contact Me</b>
+</p>
 
-- Email: mouaddeb.yassmina@gmail.com  
-- Phone: +216 29 452 990  
-- Location: Tunisia  
+<p align="center">
+<a href="https://www.linkedin.com/in/yassmin-el-meddeb-42988b197/" target="_blank">
+  <img align="center" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
+</a> &nbsp;&nbsp;
+
+<a href="mailto:mouaddeb.yassmina@gmail.com">
+  <img align="center" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
+</a>
+</p>
+
+---
+
+<p align="center">
+ <b>Github Stats</b>
+</p>
